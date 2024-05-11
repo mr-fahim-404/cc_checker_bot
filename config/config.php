@@ -52,10 +52,10 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "root";
-$config['db']['password'] =  "";
-$config['db']['database'] =  "checkerbot";
+$config['db']['hostname'] =  "http://sql6.freesqldatabase.com";
+$config['db']['username'] =  "sql6705704";
+$config['db']['password'] =  "wxvvvdsBrJ";
+$config['db']['database'] =  "sql6705704";
 
 /*
 |--------------------------------------------------------------------------
